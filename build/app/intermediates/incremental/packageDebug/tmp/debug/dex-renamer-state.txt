@@ -1,0 +1,4 @@
+#Sun Apr 11 21:26:19 MSK 2021
+base.0=/home/julia/AndroidStudioProjects/todo_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
